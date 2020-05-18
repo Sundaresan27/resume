@@ -1,0 +1,58 @@
+body{
+  background-color:#abf0e9;
+  margin: 0;
+  text-align: center;
+}
+h1{
+  color:#f6f6f6;
+  margin-top: 0;
+  font-family:Helvetica Narrow, sans-serif;
+  font-style: italic;
+}
+h2{
+  color:#00005c;
+  font-family:'verdana',sans-serif;
+}
+p{
+  font-size: 20px;
+  font-family:'verdana',sans-serif;
+}
+.profile{
+  background: url('https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d43109b992d568e0f2a866b_future-of-al.jpg');
+  background-color: #f7f7f7;
+  background-size: 100%;
+  line-height:1;
+}
+.Education{
+  margin:0;
+  padding:0;
+}
+.sundar-img{
+  width: 25%;
+}
+.edu{
+  color: blue;
+}
+.cplusplus{
+  width: 20%;
+}
+.java{
+  width: 20%;
+}
+.sun{
+  text-align: center;
+}
+.ss{
+  font-size: 20px;
+}
+.contact:hover{
+  color: blue;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-color: #f7f7f7;
+  border-width: 10px;
+
+}
